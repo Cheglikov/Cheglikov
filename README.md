@@ -6,7 +6,7 @@
 ---
 ### About me:
 
-I am a tester with bank experience. I have a great desire to work as a Manual Quality Assurance Engineer. I have a Master’s degree in Computer Systems, solid theoretical knowledge in Quality Assurance, and practical experience in testing websites. Also, I have 5 years of experience completing technical tasks and performing acceptance testing. I am a fast learner, attentive to details with critical and logical thinking and teamwork skills. I am motivated to grow professionally and ready to acquire knowledge and practical skills in automated testing in the future. I read books about Python. I have been learning Pytest, Selenium, SQL in Python.
+I am a tester with bank experience. I have a great desire to work as a Manual Quality Assurance Engineer. I have a Master’s degree in Computer Systems, solid theoretical knowledge in Quality Assurance, and practical experience in testing websites. Also, I have 5 years of experience completing technical tasks and performing acceptance testing. I am a fast learner, attentive to details with critical and logical thinking and teamwork skills. I am motivated to grow professionally and ready to acquire knowledge and practical skills in automated testing in the future. I read books about Python. I have been learning Pytest, Selenium, SQL, API in Python.
 
 My portfolio and CV you can see [here](https://github.com/Cheglikov/Portfolio.git)
 
