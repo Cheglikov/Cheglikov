@@ -12,7 +12,7 @@ My portfolio and CV you can see [here](https://github.com/Cheglikov/Portfolio.gi
 
 ---
 
-### You can contact me: [![LinkedIn Badge](https://img.shields.io/badge/-denischeglikov-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/denis-cheglikov-180306250/) [![Gmail Badge](https://img.shields.io/badge/-denis.cheglikov-red?style=flat&logo=Gmail&logoColor=white)](mailto:denis.cheglikov@gmail.com)[<img alt="CodeWars" width="135px" src="https://www.codewars.com/users/Denis%20Ch/badges/micro" />](https://www.codewars.com/)
+### You can contact me: [![LinkedIn Badge](https://img.shields.io/badge/-denis.cheglikov-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/denis-cheglikov-180306250/) [![Gmail Badge](https://img.shields.io/badge/-denis.cheglikov-red?style=flat&logo=Gmail&logoColor=white)](mailto:denis.cheglikov@gmail.com)[<img alt="CodeWars" width="135px" src="https://www.codewars.com/users/Denis%20Ch/badges/micro" />](https://www.codewars.com/)
 
 ---
 
