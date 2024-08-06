@@ -12,7 +12,7 @@ My portfolio and CV you can see [here](https://github.com/Cheglikov/Portfolio.gi
 
 ---
 
-### You can contact me: [![LinkedIn Badge](https://img.shields.io/badge/-denis.cheglikov-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/denis-cheglikov-180306250/) [![Gmail Badge](https://img.shields.io/badge/-denis.cheglikov-red?style=flat&logo=Gmail&logoColor=white)](mailto:denis.cheglikov@gmail.com)[<img alt="CodeWars" width="135px" src="https://www.codewars.com/users/Denis%20Ch/badges/micro" />](https://www.codewars.com/)
+### You can contact me: [![LinkedIn Badge](https://img.shields.io/badge/-Denis.Cheglikov-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/denis-cheglikov-180306250/) [![Gmail Badge](https://img.shields.io/badge/-Denis.Cheglikov-red?style=flat&logo=Gmail&logoColor=white)](mailto:denis.cheglikov@gmail.com)[<img alt="CodeWars" width="135px" src="https://www.codewars.com/users/Denis%20Ch/badges/micro" />](https://www.codewars.com/)
 
 ---
 
@@ -32,7 +32,7 @@ My portfolio and CV you can see [here](https://github.com/Cheglikov/Portfolio.gi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" title="SQL" alt="SQL" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/> title="GitHub" alt="GitHub" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>
 
           
