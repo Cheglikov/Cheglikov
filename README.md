@@ -6,7 +6,7 @@
 ---
 ### About me:
 
-Я тестировщик.
+
 
 My portfolio and CV you can see [here](https://github.com/Cheglikov/Portfolio.git)
 
