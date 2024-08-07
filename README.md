@@ -32,7 +32,7 @@ My portfolio and CV you can see [here](https://github.com/Cheglikov/Portfolio.gi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" title="SQL" alt="SQL" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
+<img src="https://cdn.iconscout.com/icon/free/png-512/free-github-10516009-8630395.png?f=webp&w=256" title="GitHub" alt="GitHub" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>
 
           
@@ -40,6 +40,8 @@ My portfolio and CV you can see [here](https://github.com/Cheglikov/Portfolio.gi
 
           
           
+          
+         
 
 
 
