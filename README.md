@@ -1,6 +1,6 @@
 # Hi! My name is Denis.
 
-<img alt="QA" src="IMG_1.jpg" title="QA" width="1200" height="300"/>
+<img alt="QA" src="IMG_1.jpg" title="QA. Software testing" width="1200" height="300"/>
 
 
 ---
