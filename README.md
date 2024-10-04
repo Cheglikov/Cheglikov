@@ -1,4 +1,4 @@
-# Hi! My name is Denis.
+# Hi! My name is Denis. <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Cheglikov.Cheglikov-badge&left_text=My%20Page%20Visitors"  />
 
 <img alt="QA" src="IMG_1.jpg" title="QA. Software testing" width="1200" height="300"/>
 
@@ -34,6 +34,16 @@ My portfolio and CV you can see [here](https://github.com/Cheglikov/Portfolio.gi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" title="SQL" alt="SQL" width="40" height="40"/>
 <img src="https://cdn.iconscout.com/icon/free/png-512/free-github-10516009-8630395.png?f=webp&w=256" title="GitHub" alt="GitHub" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>
+
+---
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cheglikov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cheglikov&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cheglikov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=1" height="150" alt="languages graph"  />
+</div>
+
+---
 
           
  
