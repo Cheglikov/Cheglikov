@@ -31,6 +31,7 @@ My portfolio and CV you can see [here](https://github.com/Cheglikov/Portfolio.gi
 <img alt="Python" title="Python" width="40px" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" title="Pytest" alt="Pytest" width="40" height="40"/>
+<img src="https://images.credly.com/images/af6eb254-169b-452a-a63c-5a1f986ed4cc/twitter_thumb_201604_appium.png" title="Appium" alt="Appium" width="40" height="40"/>
 <img src="https://images.opencollective.com/allure-report/a3f97da/logo/256.png" title="Allure Report" alt="Allure Report" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" title="SQL" alt="SQL" width="40" height="40"/>
