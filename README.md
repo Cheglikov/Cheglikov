@@ -1,6 +1,6 @@
 # Hi! My name is Denis. <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Cheglikov.Cheglikov-badge&left_text=My%20Page%20Visitors"  />
 
-<img alt="QA" src="IMG_12.png" title="QA. Software testing" width="1200" height="300"/>
+<img alt="QA" src="IMG_12.gif" title="QA. Software testing" width="1200" height="300"/>
 
 
 ---
