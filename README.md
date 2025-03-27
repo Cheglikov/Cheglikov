@@ -15,7 +15,7 @@ My portfolio and CV you can see [here](https://github.com/Cheglikov/Portfolio.gi
 ### You can contact me: 
 [![Gmail Badge](https://img.shields.io/badge/-Denis.Cheglikov-red?style=flat&logo=Gmail&logoColor=white)](mailto:denis.cheglikov@gmail.com) 
 [![LinkedIn Badge](https://img.shields.io/badge/-Denis.Cheglikov-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/denis-cheglikov-180306250/) 
-[![Telegram Badge](https://img.shields.io/badge/-DenisCheglikov-chinablue?style=flat&logo=Telegram&logoColor=white)](https://t.me/DenisCheglikov) 
+[![Telegram Badge](https://img.shields.io/badge/-DenisCheglikov-brightblue?style=flat&logo=Telegram&logoColor=white)](https://t.me/DenisCheglikov) 
 [<img alt="CodeWars" src="https://www.codewars.com/users/Denis%20Cheglikov/badges/small"/>](https://www.codewars.com/)
 
 ---
