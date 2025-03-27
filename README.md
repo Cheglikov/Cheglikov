@@ -15,7 +15,7 @@ My portfolio and CV you can see [here](https://github.com/Cheglikov/Portfolio.gi
 ### You can contact me: 
 [![Gmail Badge](https://img.shields.io/badge/-Denis.Cheglikov-red?style=flat&logo=Gmail&logoColor=white)](mailto:denis.cheglikov@gmail.com) 
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Denis.Cheglikov-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/denis-cheglikov-180306250/) 
+[![LinkedIn Badge](https://img.shields.io/badge/-Denis.Cheglikov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/denis-cheglikov-180306250/) 
 
 [![Telegram Badge](https://img.shields.io/badge/-DenisCheglikov-yellow?style=flat&logo=Telegram&logoColor=white)](https://t.me/DenisCheglikov) 
 
