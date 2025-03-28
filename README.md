@@ -12,6 +12,8 @@ I am a tester with banking experience. I have a great desire to work as a Manual
 
 My portfolio can be found [here](https://github.com/Cheglikov/Portfolio.git).
 
+[<img alt="CodeWars" src="https://www.codewars.com/users/Denis.Cheglikov/badges/small"/>](https://www.codewars.com/)
+
 ---
 
 ### You can contact me: 
@@ -19,7 +21,7 @@ My portfolio can be found [here](https://github.com/Cheglikov/Portfolio.git).
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:denis.cheglikov@gmail.com)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/denis-cheglikov-180306250/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/DenisCheglikov)
-[<img alt="CodeWars" src="https://www.codewars.com/users/Denis.Cheglikov/badges/small"/>](https://www.codewars.com/)
+
 
 
 
