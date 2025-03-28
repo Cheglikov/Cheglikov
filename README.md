@@ -1,4 +1,4 @@
-<a href="https://github.com/Cheglikov/Cheglikov" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Cheglikov/Cheglikov?label=Profile%20updated&style=flat-square"></a>
+<img alt="GitHub hits" align="left" src="https://img.shields.io/github/last-commit/Cheglikov/Cheglikov?label=Profile%20updated&style=flat-square">
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Cheglikov.Cheglikov.visitor-badge&left_text=My%20Page%20Visitors&left_color=blue&right_color=yellow"/> 
 
 
