@@ -1,4 +1,7 @@
-# Hi! My name is Denis. <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Cheglikov.Cheglikov-badge&left_text=My%20Page%20Visitors"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Cheglikov.Cheglikov.visitor-badge&left_text=My%20Page%20Visitors&left_color=blue&right_color=yellow"/> 
+
+
+# Hi! My name is Denis.
 
 <img alt="QA" src="IMG_13.png" title="QA. Software testing" width="1200" height="300"/>
 
@@ -6,17 +9,20 @@
 ---
 ### About me:
 
-I am a tester with bank experience. I have a great desire to work as a Manual Quality Assurance Engineer. I have a Master’s degree in Computer Systems, solid theoretical knowledge in Quality Assurance, and practical experience in testing websites. Also, I have 5 years of experience completing technical tasks and performing acceptance testing. I am a fast learner, attentive to details with critical and logical thinking and teamwork skills. I am motivated to grow professionally and ready to acquire knowledge and practical skills in automated testing in the future. I read books about Python. I have been learning Pytest, Selenium, SQL, API in Python.
+I am a tester with banking experience. I have a great desire to work as a Manual Quality Assurance Engineer. I have a Master’s degree in Computer Systems, solid theoretical knowledge in Quality Assurance, and practical experience in testing websites. Also, I have 5 years of experience completing technical tasks and performing acceptance testing. I am a fast learner, attentive to details, with critical and logical thinking and teamwork skills. I am motivated to grow professionally and ready to acquire knowledge and practical skills in automated testing in the future. I read books about Python. I have been learning Pytest, Selenium, SQL, and API in Python. 
 
-My portfolio and CV you can see [here](https://github.com/Cheglikov/Portfolio.git).
+My portfolio can be found [here](https://github.com/Cheglikov/Portfolio.git).
 
 ---
 
 ### You can contact me: 
-[![Gmail Badge](https://img.shields.io/badge/-Denis.Cheglikov-red?style=flat&logo=Gmail&logoColor=white)](mailto:denis.cheglikov@gmail.com) 
-[![LinkedIn Badge](https://img.shields.io/badge/-Denis.Cheglikov-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/denis-cheglikov-180306250/) 
-[![Telegram Badge](https://img.shields.io/badge/-DenisCheglikov-teal?style=flat&logo=Telegram&logoColor=white)](https://t.me/DenisCheglikov) 
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:denis.cheglikov@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/denis-cheglikov-180306250/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/DenisCheglikov)
 [<img alt="CodeWars" src="https://www.codewars.com/users/Denis.Cheglikov/badges/small"/>](https://www.codewars.com/)
+
+
 
 ---
 
