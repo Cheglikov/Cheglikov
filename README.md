@@ -1,11 +1,9 @@
-<img alt="GitHub hits" align="left" src="https://img.shields.io/github/last-commit/Cheglikov/Cheglikov?label=Profile%20updated&style=flat-square">
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Cheglikov.Cheglikov.visitor-badge&left_text=My%20Page%20Visitors&left_color=blue&right_color=yellow"/> 
+<img alt="Profile Update" align="right" src="https://img.shields.io/github/last-commit/Cheglikov/Cheglikov?label=Profile%20updated&path=README.md&style=flat-square&labelColor=blue&color=yellow"> <img alt="My Page Visitors" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Cheglikov.Cheglikov.visitor-badge&left_text=My%20Page%20Visitors&left_color=blue&right_color=yellow"/> 
 
 
 # Hi! My name is Denis.
 
 <img alt="QA" src="IMG_13.png" title="QA. Software testing" width="1200" height="300"/>
-
 
 ---
 ### About me:
