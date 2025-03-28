@@ -1,4 +1,4 @@
-[![Profile last updated](https://img.shields.io/github/last-commit/Cheglikov/Cheglikov/master?label=Last%20updated&style=flat)](https://github.com/Cheglikov/Cheglikov/commits)
+<a href="https://github.com/Cheglikov/Cheglikov" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Cheglikov/Cheglikov?label=Profile%20updated&style=flat-square"></a>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Cheglikov.Cheglikov.visitor-badge&left_text=My%20Page%20Visitors&left_color=blue&right_color=yellow"/> 
 
 
