@@ -1,4 +1,4 @@
-<img alt="Profile Update" align="right" src="https://img.shields.io/github/last-commit/Cheglikov/Cheglikov?label=Profile%20updated&path=README.md&style=flat-square&labelColor=blue&color=yellow"> <img alt="My Page Visitors" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Cheglikov.Cheglikov.visitor-badge&left_text=My%20Page%20Visitors&left_color=blue&right_color=yellow"/> 
+<img alt="Profile Update" align="right" src="https://img.shields.io/github/last-commit/Cheglikov/Cheglikov?label=Profile%20updated&path=README.md&style=flat-square&labelColor=blue&color=yellow"> <img alt="My Page Visitors" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Cheglikov.Cheglikov.visitor-badge&left_text=My%20page%20visitors&left_color=blue&right_color=yellow"/> 
 
 
 # Hi! My name is Denis.
