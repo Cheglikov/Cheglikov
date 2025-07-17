@@ -8,7 +8,7 @@
 ---
 ### About me:
 
-I am a tester with banking experience. I have a great desire to work as a Manual Quality Assurance Engineer. I have a Master’s degree in Computer Systems, solid theoretical knowledge in Quality Assurance, and practical experience in testing websites. Also, I have 5 years of experience completing technical tasks and performing acceptance testing. I am a fast learner, attentive to details, with critical and logical thinking and teamwork skills. I am motivated to grow professionally and ready to acquire knowledge and practical skills in automated testing in the future. I read books about Python. I have been learning Pytest, Selenium, SQL, and API in Python. 
+I am a tester with banking experience. I have a great desire to work as a Manual Quality Assurance Engineer. I hold a Master’s degree in Computer Systems, possess solid theoretical knowledge in Quality Assurance, and have practical experience in testing websites. Also, I have 5 years of experience completing technical tasks and performing acceptance testing. I am a fast learner, attentive to detail, with critical and logical thinking skills, as well as teamwork abilities. I am motivated to grow professionally and am ready to acquire knowledge and practical skills in automated testing in the future. I read books about Python. I have been learning Pytest, Playwright, Selenium, SQL, and API in Python. 
 
 My portfolio can be found [here](https://github.com/Cheglikov/Portfolio.git).
 
@@ -39,6 +39,7 @@ My portfolio can be found [here](https://github.com/Cheglikov/Portfolio.git).
 <img alt="Markdown" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" width="40" height="40"/>
 <img alt="Python" title="Python" width="40px" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" title="Pytest" alt="Pytest" width="40" height="40"/>
