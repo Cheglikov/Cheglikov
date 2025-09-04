@@ -3,7 +3,7 @@
 
 # Hi! My name is Denis.
 
-<img alt="QA" src="IMG_13.png" title="QA. Software testing" width="1200" height="300"/>
+<img alt="QA" src="IMG_15.png" title="QA. Software testing" width="1200" height="300"/>
 
 ---
 ### About me:
